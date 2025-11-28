@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SociopathTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-11-28T01:03:06" hostname="ML-ITS-211408" time="0.007">
+  <properties/>
+  <testcase name="findsSociopathInComplexGroup" classname="org.example.SociopathTest" time="0.004"/>
+  <testcase name="findsSociopathWhenEveryoneElseLikesThem" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="findsSociopathInLargerGroup" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="example1" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="example2" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="example3" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="example4" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="example5" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="handlesSinglePersonGroup" classname="org.example.SociopathTest" time="0.0"/>
+  <testcase name="returnsMinusOneWhenNotLikedByAllOthers" classname="org.example.SociopathTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
